@@ -1,5 +1,4 @@
-# Html
-For my kuyang
+# html
 <!DOCTYPE html>
 <html lang="id">
 <head>
